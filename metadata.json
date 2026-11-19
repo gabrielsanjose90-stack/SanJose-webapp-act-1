@@ -1,0 +1,6 @@
+{
+  "name": "TKD Training Hub",
+  "description": "Taekwondo academy training management platform for students, instructors, and dojang administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
